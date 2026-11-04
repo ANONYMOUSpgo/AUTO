@@ -4,7 +4,7 @@ cd
 
 rm -rf AUTO
 
-git clone --depth=1 https://github.com/MH-ABIR/AUTO
+git clone --depth=1 https://github.com/ANONYMOUSpgo/AUTO
 
 cd AUTO
 
